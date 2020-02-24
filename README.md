@@ -11,7 +11,7 @@ No.: 1</br>
 Name: Wolfram Rule 150 Demo</br>
 
 ## Team Name and Members
-Team Name: N/A</br>
+Team Name: WolframSolo</br>
 Members:
 * David Nguyen
 
