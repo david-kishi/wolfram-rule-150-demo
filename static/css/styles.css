@@ -9,3 +9,7 @@ body {
 canvas {
     background-color: #ffffff;
 }
+
+.img-credit {
+    font-size: 9px;
+}
