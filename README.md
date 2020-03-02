@@ -17,7 +17,7 @@ Members:
 
 ## Intro
 Wolfram Rule 150 is one of the many elementary cellular automata rules introduced by Stephen Wolfram back in 1983. The following solution has a **Big-O of O(N^2)** because it is traversing cell-by-cell row-by-row. However, if we assume there will always be a single starting point, we could utilize an algorithm that traverses row-by-row, peeking 2N+1 cells each row. This would turn our solution into a **Big-O of O(Log(N))**
-![Big-O Analysis](img/BigO.jpg)
+![Big-O Analysis](img/BigO.JPG)
 
 ## Contents
 img/BigO.JPG - BigO Analysis Chart of O(Log(N)) vs O(N^2) Solutions</br>
