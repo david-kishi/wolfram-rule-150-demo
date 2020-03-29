@@ -41,7 +41,7 @@ Run index.html on a local server or open in browser.</br>
 You may also visit https://david-kishi.github.io/wolfram-rule-150-demo/
 
 ## Sample invocation
-N/A
+![Wolfram150Demo](img/Rule150Demo.gif)
 
 ## Features
 - Press any button to resume/pause
